@@ -1,0 +1,17 @@
+C:\Users\cleit\Desktop\OperacaoAritmetica\bin\Debug\netcoreapp3.1\OperacaoAritmetica.exe
+C:\Users\cleit\Desktop\OperacaoAritmetica\bin\Debug\netcoreapp3.1\OperacaoAritmetica.deps.json
+C:\Users\cleit\Desktop\OperacaoAritmetica\bin\Debug\netcoreapp3.1\OperacaoAritmetica.runtimeconfig.json
+C:\Users\cleit\Desktop\OperacaoAritmetica\bin\Debug\netcoreapp3.1\OperacaoAritmetica.runtimeconfig.dev.json
+C:\Users\cleit\Desktop\OperacaoAritmetica\bin\Debug\netcoreapp3.1\OperacaoAritmetica.dll
+C:\Users\cleit\Desktop\OperacaoAritmetica\bin\Debug\netcoreapp3.1\OperacaoAritmetica.pdb
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.csproj.AssemblyReference.cache
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.Form1.resources
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.csproj.GenerateResource.cache
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.AssemblyInfoInputs.cache
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.AssemblyInfo.cs
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.dll
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.pdb
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.genruntimeconfig.cache
+C:\Users\cleit\Desktop\OperacaoAritmetica\obj\Debug\netcoreapp3.1\OperacaoAritmetica.Form1 - Cópia.resources
